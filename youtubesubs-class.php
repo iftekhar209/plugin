@@ -1,7 +1,7 @@
 <?php
 //code can be found in https://codex.wordpress.org/Widgets_API
 /**
- * Adds Youtube_Subs widet.
+ * Adds Youtube_Subs widet.dededede
  */
  class Youtube_Subs_Widget extends WP_Widget {
   
